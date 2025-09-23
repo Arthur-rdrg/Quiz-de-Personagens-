@@ -7,7 +7,7 @@ body {
 }
 
 .container {
-    max-width: 700px;
+    max-width: 900px;
     margin: auto;
     padding: 20px;
     background: #F9EFE3;
@@ -21,6 +21,14 @@ h1 {
     font-family: tempus sans itc, sans-serif;
     font-weight: bolder;
 }
+
+h2 {
+    color: #EE7223;
+    font-size: 30px;
+    font-family: tempus sans itc, sans-serif;
+    font-weight: bolder;
+}
+
 p {
     font-size: 25px;
     font-family: tempus sans itc, sans-serif;
