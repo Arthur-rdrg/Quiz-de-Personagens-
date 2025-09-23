@@ -1,7 +1,7 @@
 const characters = {
-    aang: { name: "Aang", img: "https://upload.wikimedia.org/wikipedia/en/7/7e/Aang.png", desc: "Você é pacífico, brincalhão e adora liberdade. Seu espírito é leve e você sempre busca o caminho certo." },
-    katara: { name: "Katara", img: "https://upload.wikimedia.org/wikipedia/en/8/86/Katara.png", desc: "Você é leal, protetor(a) e sempre cuida das pessoas ao seu redor. A justiça é importante para você." },
-    zuko: { name: "Zuko", img: "https://upload.wikimedia.org/wikipedia/en/d/d3/Zuko_Avatar.png", desc: "Você é determinado(a) e intenso(a), sempre buscando melhorar e superar o passado. Seu crescimento é sua força." }
+    aang: { name: "Aang", img: "aang.jpg", desc: "Você é pacífico, brincalhão e adora liberdade. Seu espírito é leve e você sempre busca o caminho certo." },
+    katara: { name: "Katara", img: "katara.webp", desc: "Você é leal, protetor(a) e sempre cuida das pessoas ao seu redor. A justiça é importante para você." },
+    zuko: { name: "Zuko", img: "zuko.webp", desc: "Você é determinado(a) e intenso(a), sempre buscando melhorar e superar o passado. Seu crescimento é sua força." }
 };
 
 // Cada pergunta tem 3 opções com pontos para cada personagem
