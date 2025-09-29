@@ -4,7 +4,7 @@ const characters = {
     zuko: { name: "Zuko", img: "zuko.webp", desc: "Você é determinado(a) e intenso(a), sempre buscando melhorar e superar o passado. Seu crescimento é sua força." }
 };
 
-// Cada pergunta tem 3 opções com pontos para cada personagem
+
 const questions = [
     {
         q: "Qual elemento você mais se identifica?",
